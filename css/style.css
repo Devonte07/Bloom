@@ -1,0 +1,90 @@
+/* 
+        colors
+        top gradient => #dc96a1
+        middle gradient => #e9738b
+        bottom gradient => #e8708b
+
+        header => #23262d
+        section2 => #f4f4f6
+        section3 => #ffffff
+
+        fonts
+
+        font-family: 'Butterfly Kids', cursive;
+
+ */
+
+
+
+h1 {
+    font-family: 'Butterfly Kids', cursive;
+    font-size: 46px;
+}
+
+.top-header {
+    background-color:#23262d;
+    height: 75px;
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+    padding: 4px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.nav-link {
+    margin: 6px;
+    padding: 0;
+}
+
+
+.section1 {
+    padding: 20px;
+    background: linear-gradient(180deg, rgba(220,150,161,1) 0%, rgba(233,115,139,1) 35%, rgba(232,112,139,1) 100%);
+}
+
+img {
+    margin-top: 25px;
+}
+
+.btn {
+    border: 1px solid #23262d;
+    border-radius: 5px;
+    background: #23262d;
+}
+
+.box {
+    width: 45%;
+    height: 200px;
+    line-height: 200px;
+    border: 1px solid #23262d;
+    background-color: #23262d;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: solid grey 6px;
+}
+
+.icon-search {
+    fill: white;
+    background: none;
+    border: none;
+    width: 100px;
+    height: 100px;
+}
+
+
+.comments {
+    font-family: sans-serif;
+}
+
+.section4 {
+    background-color:#23262d;
+    height: 75px;
+}
+
+.colophon {
+    margin-top: 30px;
+}
